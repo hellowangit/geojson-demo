@@ -1,0 +1,24 @@
+{
+  "name": "canvas-draw-map-with-geojson-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "china-geojson": "1.0.0",
+    "lodash": "4.17.21",
+    "parcel-bundler": "^1.6.1",
+    "randomcolor": "0.6.2",
+    "matrix-inverse": "2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
